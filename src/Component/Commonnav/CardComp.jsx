@@ -15,14 +15,15 @@ function CardComp(props) {
             style={{
                 width: '18rem'
             }}>
-            <img alt="Sample"src={props.img} width="100px" height="100px" />
+            <img alt="Sample"src={props.img} width="100px" height="100px" />\sadfiasdfhuisahud
             <CardBody>
                 {/* <CardTitle tag="h5">
                 {props.head}
                 </CardTitle> */}
                 <CardSubtitle
                     className="mb-2 text-muted"
-                    tag="h6" >
+                    tag="h6" >\
+                        as;odihweqgywjl;;iuyscaklj/;iugchZKJxiuyfwesugs
                     rs arun: {props.rate}
                 </CardSubtitle>
                 <CardText>

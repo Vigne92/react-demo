@@ -31,7 +31,7 @@ function Navcomp(args) {
             </NavItem>
             <NavItem>
               <NavLink href="https://github.com/reactstrap/reactstrap">
-                GitHub
+                GitHubdsadsadc
               </NavLink>
             </NavItem>
             <UncontrolledDropdown nav inNavbar>
