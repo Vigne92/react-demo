@@ -15,7 +15,7 @@ function CardComp(props) {
             style={{
                 width: '18rem'
             }}>
-            <img alt="Sample"src={props.img} width="100px" height="100px" />\sadfiasdfhuisahud
+            <img alt="Sample" src={props.img} width="100px" height="100px" />
             <CardBody>
                 {/* <CardTitle tag="h5">
                 {props.head}
@@ -23,8 +23,8 @@ function CardComp(props) {
                 <CardSubtitle
                     className="mb-2 text-muted"
                     tag="h6" >\
-                        as;odihweqgywjl;;iuyscaklj/;iugchZKJxiuyfwesugs
-                    rs arun: {props.rate}
+                        
+                    price: {props.rate}
                 </CardSubtitle>
                 <CardText>
                     Some quick example text to build on the card title and make up the bulk of the card‘s content.
