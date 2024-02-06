@@ -15,9 +15,9 @@ class App extends Component{
 
       {/* <Birthday /> */}
 
-      {/* <Apicallcomp /> */}
+      <Apicallcomp />
 
-      <FormReact />
+      {/* <FormReact /> */}
       </>
     )
   }
