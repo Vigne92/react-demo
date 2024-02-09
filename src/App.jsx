@@ -4,6 +4,7 @@ import Birthday from "./FunComp/Birthday";
 import Apicallcomp from "./Component/Apicallcomp";
 import Navcomp from "./Component/Commonnav/Navcomp";
 import FormReact from "./FunComp/FormReact";
+import GroceryBud from "./FunComp/GroceryBud";
 
 class App extends Component{
 
@@ -15,9 +16,11 @@ class App extends Component{
 
       {/* <Birthday /> */}
 
-      <Apicallcomp />
+      {/* <Apicallcomp /> */}
 
       {/* <FormReact /> */}
+
+      <GroceryBud />
       </>
     )
   }
